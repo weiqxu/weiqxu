@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weiqxu
 
-- 👀 I’m interested in Database
+- 👀 I’m interested in Database, AI
 
 - 📫 How to reach me 
 - xuweiqingchn at gmail dot com
